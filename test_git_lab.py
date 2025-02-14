@@ -6,6 +6,7 @@ from git_lab import (
     calculate_triangle_area,
     is_prime,
     add_numbers,
+    multiply_numbers
 )
 import math
 
